@@ -1,0 +1,23 @@
+*{
+    color: rgb(238, 236, 236);
+    
+}
+#NaveBar
+{
+    background-color: #0f1111;
+    height: 60px;
+}
+button{
+    background-color:#f08804;
+}
+#logo
+{
+    color:#f08804;
+    font-size: 25px
+}
+a{
+    margin-right:200px;
+    text-decoration: none;
+}
+
+    
